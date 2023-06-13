@@ -22,6 +22,7 @@ The data contained in these columns were all integer data types.
 ## Cleaning and EDA
 
 In order to clean my data appropriately, I replaced missing values of the columns with zeros, and grouped the data set by league.
+
 | league   |   kills |   deaths |   assists |   doublekills |   triplekills |   quadrakills |   pentakills |   damagetochampions |   damagetakenperminute |   damagemitigatedperminute |
 |:---------|--------:|---------:|----------:|--------------:|--------------:|--------------:|-------------:|--------------------:|-----------------------:|---------------------------:|
 | CBLOL    |   13846 |    13864 |     32916 |          1572 |           296 |            54 |           14 |         6.50574e+07 |            2.74934e+06 |                2.52273e+06 |
